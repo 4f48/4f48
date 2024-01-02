@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @4f48
 - 👀 Still developing my interests.
 - 🌱 I’m currently learning GitHub.
-- 📫 You can email me at hello@0x4f48.aleeas.com
+- 📫 You can email me if you want.
 
 <!---
 4f48/4f48 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
