@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @4f48
-- 👀 Still developing my interests.
-- 🌱 I’m currently learning GitHub.
+- 👀 Average Open Source enjoyer.
+- 🌱 I do programming in my free time.
 - 📫 You can email me if you want.
 
 <!---
